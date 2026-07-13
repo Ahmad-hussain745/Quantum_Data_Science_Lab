@@ -1,0 +1,6 @@
+{
+  "name": "Quantum DS Lab",
+  "description": "An interactive data science laboratory for Exploratory Data Analysis, predictive modeling, and statistical insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
